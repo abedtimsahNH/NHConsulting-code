@@ -3,7 +3,7 @@
  * @NScriptType UserEventScript
  *
  */
-define(['N/record','N/log'], 
+define(['N/record','N/log'], // Modules
     function(record,log) {
 
         function afterSubmit(context) {
